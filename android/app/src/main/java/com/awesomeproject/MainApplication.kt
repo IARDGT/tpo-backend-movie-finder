@@ -1,4 +1,4 @@
-package com.awesomeproject
+package com.MovieFinder
 
 import android.app.Application
 import com.facebook.react.PackageList
